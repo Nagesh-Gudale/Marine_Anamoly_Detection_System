@@ -1,2 +1,0 @@
-daphne pid 2613
-celery pid 2575
